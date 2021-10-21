@@ -1,3 +1,4 @@
-# A Website
+# A Simple Website template and instant server
 
-This is a repository for a website
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/opencoca/startr_simpleweb/blob/master/Running_Flask_on_Google_Colab.ipynb)
+
